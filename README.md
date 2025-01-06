@@ -84,7 +84,6 @@ The system is implemented using object-oriented programming principles:
 - Implement book reservation functionality.
 - Enhance data storage using a database.
 - Add support for exporting reports (e.g., issued books, available books).
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
@@ -93,11 +92,11 @@ Contributions are welcome! Please follow these steps:
 4. Submit a pull request.
 
 ## OUTPUT
-![1](assets/1.png).
-![2](assets/2.png).
-![3](assets/3.png).
-![4](assets/4.png).
-![5](assets/5.png).
-![6](assets/6.png).
-![7](assets/7.png).
+![1](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+![4](assets/4.png)
+![5](assets/5.png)
+![6](assets/6.png)
+![7](assets/7.png)
 
