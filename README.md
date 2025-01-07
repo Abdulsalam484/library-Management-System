@@ -92,11 +92,11 @@ Contributions are welcome! Please follow these steps:
 4. Submit a pull request.
 
 ## OUTPUT
-![1](assets/1.png)
-![2](assets/2.png)
-![3](assets/3.png)
-![4](assets/4.png)
-![5](assets/5.png)
-![6](assets/6.png)
-![7](assets/7.png)
+![Main Menu](assets/1.png)
+![Add Book](assets/2.png)
+![Search Book](assets/3.png)
+![Issue Book](assets/4.png)
+![Return Book](assets/5.png)
+![Delete Book](assets/6.png)
+![Undo Last Deletion](assets/7.png)
 
