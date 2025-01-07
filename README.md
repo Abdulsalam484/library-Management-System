@@ -91,22 +91,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes.
 4. Submit a pull request.
 
-## OUTPUT
-## OUTPUT
-Here are screenshots of the application's functionality:
-- **Main Menu**:  
-  ![Main Menu](https://raw.githubusercontent.com/Abdulsalam484/library-Management-System/main/assets/1.png)
-- **Add Book**:  
-  ![Add Book](https://raw.githubusercontent.com/<username>/<repository>/main/assets/2.png)
-- **Search Book**:  
-  ![Search Book](https://raw.githubusercontent.com/<username>/<repository>/main/assets/3.png)
-- **Issue Book**:  
-  ![Issue Book](https://raw.githubusercontent.com/<username>/<repository>/main/assets/4.png)
-- **Return Book**:  
-  ![Return Book](https://raw.githubusercontent.com/<username>/<repository>/main/assets/5.png)
-- **Delete Book**:  
-  ![Delete Book](https://raw.githubusercontent.com/<username>/<repository>/main/assets/6.png)
-- **Undo Last Deletion**:  
-  ![Undo Last Deletion](https://raw.githubusercontent.com/<username>/<repository>/main/assets/7.png)
+
 
 
